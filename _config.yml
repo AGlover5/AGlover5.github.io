@@ -1,3 +1,9 @@
 theme: minima
 title: Andy Lastname
 description: Aerospace • Autonomy • Robotics Engineering
+
+header_pages:
+  - projects.md
+  - resume.md
+  - contact.md
+
