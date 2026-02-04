@@ -20,7 +20,7 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 - Online mass and inertia estimation under uncertainty  
 - Closed-loop simulation and trajectory optimization  
 
-➡️ [View project](/orbital-autonomy/)
+➡️ [View project](projects/autonomy.html)
 
 ---
 
@@ -31,7 +31,7 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 - Flow visualization and scaling analysis  
 - Experimental validation of theoretical predictions  
 
-➡️ [View project](/water-channel/)
+➡️ [View project](projects/water-channel.html)
 
 ---
 
