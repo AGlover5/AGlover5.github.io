@@ -9,10 +9,10 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 
 ---
 
-## Flagship Projects
+## Projects
 
 ### 🚀 Orbital Robotic Autonomy  
-**Information-Driven Autonomous Orbital Maneuvering Under Uncertain Mass Properties**
+**Information-Aware Excitation Trajectories for In-Orbit Mass Property Estimation**
 
 - Model predictive control with information-driven cost shaping  
 - Online mass and inertia estimation under uncertainty  
