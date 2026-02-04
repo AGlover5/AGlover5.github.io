@@ -1,3 +1,9 @@
 theme: minima
-title: Andy Glover
+title: Andy Lastname
 description: Aerospace • Autonomy • Robotics Engineering
+
+header_pages:
+  - index.md
+  - projects.md
+  - resume.md
+  - contact.md
