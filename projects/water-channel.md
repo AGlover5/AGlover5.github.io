@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Experimental Fluid Dynamics (Water Channel)
+title: Water Channel
+permalink: /water-channel/
 ---
+
 
 # High-Fidelity Flow Characterization in a Water Channel
 
