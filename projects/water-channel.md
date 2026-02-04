@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Water Channel
-permalink: /water-channel/
 ---
 
 
