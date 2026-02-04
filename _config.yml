@@ -3,7 +3,8 @@ title: Andy Glover
 description: Aerospace • Autonomy • Robotics Engineering
 
 header_pages:
-  - projects.md
+  - index.md
+  - projects/autonomy.md
+  - projects/water-channel.md
   - resume.md
   - contact.md
-
