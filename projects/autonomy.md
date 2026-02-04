@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Orbital Robotic Autonomy
+title: Orbital Autonomy
+permalink: /orbital-autonomy/
 ---
 
 # Information-Driven Autonomous Orbital Maneuvering
