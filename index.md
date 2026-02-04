@@ -3,8 +3,6 @@ layout: page
 title: Home
 ---
 
-# Andy Glover
-
 **Autonomy • Controls • Aerospace Systems Engineer**
 
 I design physics-based autonomous systems for spacecraft and robotic platforms operating under uncertainty.
