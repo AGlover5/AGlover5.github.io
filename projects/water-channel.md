@@ -5,7 +5,7 @@ permalink: /water-channel/
 ---
 
 
-# High-Fidelity Flow Characterization in a Water Channel
+# Flow Characterization and Lifting Performance of Dragonfly inspired airfoils in a Water Channel
 
 ## Summary
 
