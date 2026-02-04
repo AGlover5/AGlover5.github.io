@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-# Andy Glover
+# Andy Lastname
 
 **Autonomy • Controls • Aerospace Systems Engineer**
 
@@ -14,13 +14,33 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 ## Flagship Projects
 
 ### 🚀 Orbital Robotic Autonomy  
-**Information-Driven Autonomous Maneuvering Under Uncertain Mass Properties**
+**Information-Driven Autonomous Orbital Maneuvering Under Uncertain Mass Properties**
+
+- Model predictive control with information-driven cost shaping  
+- Online mass and inertia estimation under uncertainty  
+- Closed-loop simulation and trajectory optimization  
 
 ➡️ [View project](projects/autonomy.html)
 
 ---
 
-### 🌊 Fluid Dynamics Water Channel Experiment  
-**High-Fidelity CFD Modeling and Validation**
+### 🌊 Experimental Fluid Dynamics (Water Channel)  
+**High-Fidelity Flow Characterization and Validation in a Water Channel**
 
-➡️ [View project](projects/cfd.html)
+- Physical flow experiments in a controlled water channel  
+- Flow visualization and scaling analysis  
+- Experimental validation of theoretical predictions  
+
+➡️ [View project](projects/water-channel.html)
+
+---
+
+## Resume
+
+➡️ [View resume](resume.html)
+
+---
+
+## Contact
+
+➡️ [Contact information](contact.html)
