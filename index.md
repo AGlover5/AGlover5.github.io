@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Home
+title: Projects
+permalink: /projects/
 ---
 
 # Andy Glover
