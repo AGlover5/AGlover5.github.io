@@ -3,7 +3,7 @@ layout: page
 title: Engineering Portfolio
 ---
 
-**Autonomy • Controls • Fluid  • Aerospace Systems Engineer**
+**Autonomy • Controls • Fluid Dynamics • Aerospace and Astronautical Engineering**
 
 I design physics-based autonomous systems for spacecraft and robotic platforms operating under uncertainty.
 
