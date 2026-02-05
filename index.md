@@ -35,9 +35,9 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 
 ## Education
 
-#University of Southern California
-Aerospace Engineering, BS
-Astronautial Engineering, MS
+**University of Southern California**
+- BS, Aerospace Engineering
+- MS, Astronautial Engineering
 
 ---
 
