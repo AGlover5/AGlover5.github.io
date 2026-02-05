@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Engineering Portfolio
 ---
 
 **Autonomy • Controls • Fluid  • Aerospace Systems Engineer**
