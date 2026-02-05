@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-**Autonomy • Controls • Aerospace Systems Engineer**
+**Autonomy • Controls • Fluid  • Aerospace Systems Engineer**
 
 I design physics-based autonomous systems for spacecraft and robotic platforms operating under uncertainty.
 
@@ -30,6 +30,14 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 - Experimental validation of theoretical predictions  
 
 ➡️ [View project](projects/water-channel.html)
+
+---
+
+## Education
+
+#University of Southern California
+Aerospace Engineering, BS
+Astronautial Engineering, MS
 
 ---
 
