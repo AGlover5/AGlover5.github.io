@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dragonfly-inspired Corrugated Airfoil Performance
+title: Dragonfly-inspired Airfoil Performance
 ---
 
 
