@@ -16,7 +16,7 @@ This project investigated flow behavior around a physical model in a controlled 
 
 - Recirculating water channel  
 - Physical test article  
-- Dye visualization / PIV / flow tracers (if applicable)  
+- Dye visualization
 - Controlled Reynolds number regime  
 
 *(Insert photo of the water channel or test setup here)*
