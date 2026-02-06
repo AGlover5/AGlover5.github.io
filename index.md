@@ -22,7 +22,7 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 
 ---
 
-### 🌊 Experimental Fluid Dynamics (Water Channel)  
+### 🌊 Experimental Fluid Dynamics (Water Channel test of Corrugated Airfoil)  
 **High-Fidelity Flow Characterization and Validation in a Water Channel**
 
 - Physical flow experiments in a controlled water channel  
