@@ -39,6 +39,10 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 - BS Aerospace Engineering
 - MS Astronautial Engineering
 
+
+**Saint Mary's College of California**
+- BA Liberal Arts
+
 ---
 
 ## Resume
