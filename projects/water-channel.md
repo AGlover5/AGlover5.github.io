@@ -6,6 +6,10 @@ title: Dragonfly-inspired Airfoil Performance
 
 # Flow Characterization and Lifting Performance of Dragonfly inspired airfoils in a Water Channel
 
+## View the Poster!
+
+- 📄 [Poster (PDF)](/assets/posters/water-channel-poster.pdf)
+
 ## Summary
 
 This project investigated flow behavior around a physical model in a controlled water channel environment. The goal was to characterize flow structures, validate scaling assumptions, and compare experimental results to theoretical predictions.
