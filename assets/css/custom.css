@@ -1,0 +1,10 @@
+/* Justify only long narrative paragraphs */
+.page-content p {
+  text-align: justify;
+}
+
+/* Keep lists readable */
+.page-content ul,
+.page-content ol {
+  text-align: left;
+}
