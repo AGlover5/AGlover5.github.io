@@ -11,7 +11,7 @@ title: Dragonfly-inspired Airfoil Performance
   <img 
     src="/assets/images/water-channel-poster-thumb.png" 
     alt="Water channel poster preview" 
-    style="max-width:120px; border:1px solid #ddd; border-radius:6px;"
+    style="max-width:420px; border:1px solid #ddd; border-radius:6px;"
   >
 </a>
 
