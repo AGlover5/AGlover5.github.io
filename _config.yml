@@ -2,6 +2,10 @@ theme: minima
 title: Andy Glover
 description: Aerospace • Autonomy • Robotics Engineering
 
+minima:
+  custom_css:
+    - assets/css/custom.css
+
 header_pages:
   - index.md
   - projects/autonomy.md
