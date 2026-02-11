@@ -6,7 +6,7 @@ title: Dragonfly-inspired Airfoil Performance
 
 # Flow Characterization and Lifting Performance of Dragonfly inspired airfoils in a Water Channel
 
-## View the Poster!
+## View the Poster from the Expo!
 
 - 📄 [Poster (PDF)](/assets/posters/water-channel-poster.pdf)
 
@@ -16,7 +16,7 @@ This project investigated flow behavior around a physical model in a controlled 
 
 ---
 
-## Motivation And Relevance
+## Motivation and Relevance
 Low Reynolds number fluid flow is an increasingly common regime for small UAVs and underwater drones. Prior CFD studies by Tang et al [1] suggested that corrugated airfoil geometries—motivated by dragonfly wing structures—could generate higher lift coefficients and improved lift-to-drag ratios compared to conventionally smooth, teardrop shaped NACA airfoils.
 The objective of this project was to experimentally validate these predicted trends and investigate the flow mechanisms responsible for performance differences in a controlled water channel environment.
 
