@@ -7,13 +7,15 @@ title: Dragonfly-inspired Airfoil Performance
 # Flow Characterization and Lifting Performance of Dragonfly inspired airfoils in a Water Channel
 
 ## View the Poster from the Expo!
-<a href="/assets/posters/water-channel-poster-web.pdf" target="_blank">
-  <img 
-    src="/assets/images/water-channel-poster-thumb.png" 
-    alt="Water channel poster preview" 
-    style="max-width:420px; border:1px solid #ddd; border-radius:6px;"
-  >
-</a>
+<div style="max-width:360px; margin: 12px 0;">
+  <a href="/assets/posters/water-channel-poster-web.pdf" target="_blank">
+    <img 
+      src="/assets/images/water-channel-poster-thumb.png" 
+      alt="Water channel poster preview" 
+      style="width:100%; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+  </a>
+</div>
 
 ## Summary
 
