@@ -24,7 +24,7 @@ This project investigated flow behavior around three airfoils in a controlled wa
 <img width="868" height="242" alt="Wings" src="https://github.com/user-attachments/assets/206ba3ef-3fa9-494e-930d-43f4b875a9d1" />
 </p>
 
-The three airfoils of choice were called smooth (left), intermediately corrugated (middle), and extremely corrugated (right). 
+The three airfoils of choice were called smooth (left), intermediately corrugated (middle), and extremely corrugated (right).  
 
 ---
 
@@ -32,8 +32,36 @@ The three airfoils of choice were called smooth (left), intermediately corrugate
 Low Reynolds number fluid flow is an increasingly common regime for small UAVs and underwater drones. A prior CFD studies by Tang et al [1] suggested that corrugated airfoil geometries—motivated by dragonfly wing structures—could generate higher lift coefficients and improved lift-to-drag ratios compared to conventionally smooth, teardrop shaped NACA airfoils.
 The objective of this project was to experimentally validate these predicted trends and investigate the flow mechanisms responsible for performance differences in a controlled water channel environment.
 
+**Guiding Scientific Literature**
+  <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
+ <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/tang.png" 
+      alt="tang pressure CFD" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      CFD conducted by Tang et al [1] as the insipration for the experimental airfoil design
+    </figcaption>
+  </figure>
 
+  <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/vortex.png" 
+      alt="vortex" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      Flow Visualization of the intermediate design at +3 degrees 
+    </figcaption>
+  </figure>
+
+</div>
+
+The motivating insight from both Tang et al [1] and Deubel [2] was that the corugated patterns would crete lower pressure on the top surface of the airfoil, increasing lift.
+
+For this experiment, the smooth airfoil acted (NACA 2410) as a control, the intermediate was designed with CAD to act as an approximation of the corrugated pattern in the CFD conducted by Tang et al [1], and the extreme airfoil was made out of experimental curioisty to see what effects doubling how densly packed the corrugation pattern could have on lift and vortex generation.
 
 ## High Level Experimental Setup 
 The experimental setup was designed for rapid and repeatable iterations of the lift measurements as well as for dye visualization runs at different angles of attack.
@@ -174,4 +202,6 @@ The majority of the setup used beams, slots, and connectors that were already in
 1. H. Tang, Y. Lei, X. Li, and Y. Fu, ‘Numerical Investigation of the Aerodynamic Characteristics
 and Attitude Stability of a Bio-Inspired Corrugated Airfoil for MAV or UAV Applications’, Energies,
 vol. 12, p. 4021, 10 2019.
+2. T. Deubel, S. Wanke, C. Weber, and F. Wedekind, ‘Modelling and Manufacturing of a Dragonfly
+Wing as Basis for Bionic Research’, Strojarstvo, vol. 49, 01 2008.
 
