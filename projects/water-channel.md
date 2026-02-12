@@ -193,7 +193,7 @@ The majority of the setup used beams, slots, and connectors that were already in
 - Water channel facility at USC's Rapp Engineering Building
 - Dye Flow visualization
 - 3D printing with ABS and PETG for components designed with Siemens NX
-- Data processing (Python / MATLAB butter filter/NI DAQ hardware and LabVIEW)
+- Data acquisition and processing (NI DAQ hardware and LabVIEW/MATLAB butterworth filter)
 
 ## Read the Full Report Here!
 
