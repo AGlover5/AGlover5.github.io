@@ -42,7 +42,7 @@ The objective of this project was to experimentally validate these predicted tre
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
-      CFD conducted by Tang et al [1] as the insipration for the experimental airfoil design
+      Coefficient of pressure CFD conducted by Tang et al [1] as the insipration for the experimental airfoil design
     </figcaption>
   </figure>
 
@@ -53,7 +53,7 @@ The objective of this project was to experimentally validate these predicted tre
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
-      Flow Visualization of the intermediate design at +3 degrees 
+      Diagram from Deubel [2] showing the desired vortex generation of a corrugated wing 
     </figcaption>
   </figure>
 
