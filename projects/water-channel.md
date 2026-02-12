@@ -20,11 +20,20 @@ title: Experimental Fluid Dynamics
 
 This project investigated flow behavior around a physical model in a controlled water channel environment. The goal was to characterize flow structures, validate scaling assumptions, and compare experimental results to theoretical predictions.
 
+<p align="center">
+<img width="868" height="242" alt="Wings" src="https://github.com/user-attachments/assets/206ba3ef-3fa9-494e-930d-43f4b875a9d1" />
+</p>
+
 ---
 
 ## Motivation and Relevance
 Low Reynolds number fluid flow is an increasingly common regime for small UAVs and underwater drones. Prior CFD studies by Tang et al [1] suggested that corrugated airfoil geometries—motivated by dragonfly wing structures—could generate higher lift coefficients and improved lift-to-drag ratios compared to conventionally smooth, teardrop shaped NACA airfoils.
 The objective of this project was to experimentally validate these predicted trends and investigate the flow mechanisms responsible for performance differences in a controlled water channel environment.
+
+
+
+
+
 
 ## Experimental Setup (High Level)
 The experimental setup was designed for rapid and repeatable iterations of the lift measurements as well as for dye visualization runs at different angles of attack.
@@ -62,14 +71,6 @@ The majority of the setup used beams, slots, and connectors that were already in
     src="https://github.com/user-attachments/assets/de42433b-1c87-423d-937d-3d909f4df523"
   />
 </p>
-
----
-
-## Governing Physics & Assumptions
-
-- Flow regime and dominant dimensionless parameters  
-- Scaling laws and similarity assumptions  
-- Expected separation / wake behavior  
 
 ---
 
