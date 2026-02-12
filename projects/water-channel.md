@@ -76,12 +76,10 @@ The majority of the setup used beams, slots, and connectors that were already in
 ## Measurement & Data Processing
 
 **Generating a Calibration Curve for Strain Guage Signal to Lift Force Conversion**
+
 <div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
-
-  <img width="590" height="411" alt="Calibration Curve" src="https://github.com/user-attachments/assets/186a3253-a519-4823-a364-04938742941e" />
-
-<img width="576" height="396" alt="Cl vs alpha" src="https://github.com/user-attachments/assets/5c1fc0bd-6b5c-42b9-b65c-8ca35f3ef90a" />
-
+<img width="742" height="344" alt="System Calibration Diagram" src="https://github.com/user-attachments/assets/e83e72df-fc83-4f15-bdc4-7f53cc491c00" />
+<img width="590" height="411" alt="Calibration Curve" src="https://github.com/user-attachments/assets/6a4ce975-177d-428a-ae7c-5ccfda616d53" />
 </div>
 
 ---
