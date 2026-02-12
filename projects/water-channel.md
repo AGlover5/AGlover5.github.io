@@ -24,13 +24,16 @@ This project investigated flow behavior around three airfoils in a controlled wa
 <img width="868" height="242" alt="Wings" src="https://github.com/user-attachments/assets/206ba3ef-3fa9-494e-930d-43f4b875a9d1" />
 </p>
 
-The three airfoils of choice were called smooth (black), intermediately corrugated (blue), and extremely corrugated (red). 
+The three airfoils of choice were called smooth (left), intermediately corrugated (middle), and extremely corrugated (right). 
 
 ---
 
 ## Motivation and Relevance
-Low Reynolds number fluid flow is an increasingly common regime for small UAVs and underwater drones. Prior CFD studies by Tang et al [1] suggested that corrugated airfoil geometries—motivated by dragonfly wing structures—could generate higher lift coefficients and improved lift-to-drag ratios compared to conventionally smooth, teardrop shaped NACA airfoils.
+Low Reynolds number fluid flow is an increasingly common regime for small UAVs and underwater drones. A prior CFD studies by Tang et al [1] suggested that corrugated airfoil geometries—motivated by dragonfly wing structures—could generate higher lift coefficients and improved lift-to-drag ratios compared to conventionally smooth, teardrop shaped NACA airfoils.
 The objective of this project was to experimentally validate these predicted trends and investigate the flow mechanisms responsible for performance differences in a controlled water channel environment.
+
+
+
 
 ## High Level Experimental Setup 
 The experimental setup was designed for rapid and repeatable iterations of the lift measurements as well as for dye visualization runs at different angles of attack.
@@ -166,3 +169,9 @@ The majority of the setup used beams, slots, and connectors that were already in
 - Data processing (Python / MATLAB butter filter)
 
 ## Read the Formal Report Here!
+
+## Referenced CFD Study
+1. H. Tang, Y. Lei, X. Li, and Y. Fu, ‘Numerical Investigation of the Aerodynamic Characteristics
+and Attitude Stability of a Bio-Inspired Corrugated Airfoil for MAV or UAV Applications’, Energies,
+vol. 12, p. 4021, 10 2019.
+
