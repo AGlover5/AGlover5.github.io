@@ -52,7 +52,7 @@ Since the limiting factor on the experiment was facility availability, it was de
   />
 </p>
 
-The majority of the setup used beams, slots, and connectors that were already in stock at the university, leaving considerable margin for the 3D printing budget. By making smaller and simpler individual connectors for each AOA of a standard design, a  CAD connector could be duplicated for any angle, printed, and then used in a data recording trial within 1-2 days of the 3D print order being submitted.
+The majority of the setup used beams, slots, and connectors that were already in stock at the university, leaving considerable margin for the 3D printing budget. By making smaller and simpler individual connectors for each AOA of a standard design, a connector could be duplicated for any angle, printed, and then used in a data recording trial within 1-2 days of the 3D print order being submitted.
 
 <p align="center">
   <img
@@ -77,10 +77,12 @@ The majority of the setup used beams, slots, and connectors that were already in
 
 **Generating a Calibration Curve for Strain Guage Signal to Lift Force Conversion**
 
+
 <div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
 <img width="742" height="344" alt="System Calibration Diagram" src="https://github.com/user-attachments/assets/e83e72df-fc83-4f15-bdc4-7f53cc491c00" />
 <img width="590" height="411" alt="Calibration Curve" src="https://github.com/user-attachments/assets/6a4ce975-177d-428a-ae7c-5ccfda616d53" />
 </div>
+
 
 ---
 
