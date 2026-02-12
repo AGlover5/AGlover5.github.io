@@ -29,7 +29,7 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 </p>
 - Physical flow experiments in a controlled water channel  
 - Flow visualization and scaling analysis  
-- Experimental validation of theoretical predictions  
+- Experimental demonstration of theoretical predictions  
 
 ➡️ [View project](projects/water-channel.html)
 
