@@ -62,7 +62,7 @@ The motivating insight from both Tang et al [1] and Deubel et al [2] was that th
 </div>
 
 <br>
-For this experiment, the smooth airfoil acted (NACA 2410) as a control, the intermediate was designed with CAD to act as an approximation of the corrugated pattern in the CFD conducted by Tang et al [1], and the extreme airfoil was made out of experimental curioisty to see what effects doubling how densly packed the corrugation pattern could have on lift and vortex generation.
+For this experiment, the smooth airfoil acted (NACA 2410) as a control, the intermediate was designed with CAD to act as an approximation of the corrugated pattern in the CFD conducted by Tang et al [1], and the extreme airfoil was made out of experimental curioisty to see what effects doubling the amount corrugation patterns on the chord could have on the lift and vortex generation.
 
 ## High Level Experimental Setup 
 The experimental setup was designed for rapid and repeatable iterations of the lift measurements as well as for dye visualization runs at different angles of attack.
@@ -76,10 +76,10 @@ The experimental setup was designed for rapid and repeatable iterations of the l
   />
 </p>
 
-Lift forces were converted from strain gauge measurements at the top of the cantilever beam supporting the airfoil. Lift coefficient was then calculated from the controlled wing area and dynamic pressure.
+Lift forces were converted from strain gauge measurements at the top of the cantilever beam supporting the airfoil. Lift coefficient was then calculated from the wing area and dynamic pressure.
 
 ## Pragmatic and Economic Considerations
-Since the limiting factor on the experiment was facility availability, it was decided that constructing a single adjustable angle-of-attack mechanism would cause unnecesary delays due to additional assembly time and angle tolerance verification. 
+Since the limiting factor on the experiment was labratory and facility use time, it was decided that constructing a single adjustable angle-of-attack mechanism would cause unnecesary delays due to additional time for assembly and angle tolerance verification. 
 
 <p align="center">
   <img
