@@ -167,9 +167,6 @@ The majority of the setup used beams, slots, and connectors that were already in
 </div>
 
 
-
-
-
 - Mean CL values show increase due to corrugation.
 - System noise dominated with heavy uncertainty despite maximimal priority on increasing number of tests to minimize strain guage uncertainty for each airofoil and angle combination. 
 - High sensitivity to flow speed variations due to motor power fluctuations and water channel geometry.
@@ -198,7 +195,20 @@ The majority of the setup used beams, slots, and connectors that were already in
 
 ## Read the Formal Report Here!
 
-## Referenced CFD Study
+<div>
+  <a href="/assets/posters/water-channel-paper.pdf" target="_blank">
+    <img
+      src="/assets/images/water-channel-paper-thumb.png?v=2"
+      alt="Water channel poster preview"
+      width="220"
+      style="border:1px solid #ddd; border-radius:6px;"
+    >
+  </a>
+</div>
+<p><em>Click the preview to open the full report (PDF).</em></p>
+
+
+## Referenced Studies
 1. H. Tang, Y. Lei, X. Li, and Y. Fu, ‘Numerical Investigation of the Aerodynamic Characteristics
 and Attitude Stability of a Bio-Inspired Corrugated Airfoil for MAV or UAV Applications’, Energies,
 vol. 12, p. 4021, 10 2019.
