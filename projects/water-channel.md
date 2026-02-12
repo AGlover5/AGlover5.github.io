@@ -168,7 +168,7 @@ The majority of the setup used beams, slots, and connectors that were already in
 </div>
 <br>
 
-- Mean CL values show increase due to corrugation.
+- Mean CL values show increase due to corrugation for the smooth airfoil.
 - System noise dominated with heavy uncertainty despite maximimal priority on increasing number of tests to minimize strain guage uncertainty for each airofoil and angle combination. 
 - High sensitivity to flow speed variations due to motor power fluctuations and water channel geometry.
 - A prominant Vortex was generated in the predicted cavity. 
