@@ -3,7 +3,7 @@ layout: page
 title: Experimental Fluid Dynamics
 ---
 
-## View the Poster from the Expo!
+## View the Expo Poster!
 <div>
   <a href="/assets/posters/water-channel-poster.pdf" target="_blank">
     <img
@@ -33,7 +33,7 @@ Low Reynolds number fluid flow is an increasingly common regime for small UAVs a
 The objective of this project was to experimentally validate these predicted trends and investigate the flow mechanisms responsible for performance differences in a controlled water channel environment.
 
 **Guiding Scientific Literature**
-The motivating insight from both Tang et al [1] and Deubel et al [2] was that the corugated patterns would crete lower pressure on the top surface of the airfoil, increasing lift.
+The motivating insight from both Tang et al [1] and Deubel et al [2] was that the corugated patterns would create lower pressure on the top surface of the airfoil, increasing lift.
 
   <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
@@ -168,10 +168,10 @@ The majority of the setup used beams, slots, and connectors that were already in
 </div>
 <br>
 
-- Mean CL values show increase due to corrugation for the smooth airfoil.
+- Mean CL values show an increase with the intermediate corrugation for the smooth airfoil at the small, positive angles-of-attack. 
 - System noise dominated with heavy uncertainty despite maximimal priority on increasing number of tests to minimize strain guage uncertainty for each airofoil and angle combination. 
 - High sensitivity to flow speed variations due to motor power fluctuations and water channel geometry.
-- A prominant Vortex was generated in the predicted cavity. 
+- A prominant Vortex was generated in the predicted cavity in the flow visualization shown, more can be seen in the final report below. 
 
 ---
 
@@ -184,7 +184,7 @@ The majority of the setup used beams, slots, and connectors that were already in
    Environmental uncertainties—particularly variability in water channel flow speed—dominated total measurement uncertainty despite low noise in strain gauge voltage data. Designing experiments around dominant uncertainty sources should be the primary focus when allocating instrumentation and control effort.
 
 - **Validity of assumptions:**  
-   Even with minimal measurement noise, experimental validation of CFD predictions requires that the conditions underlying modeling assumptions be recreated within an acceptable tolerance. In this case, the infinite-aspect-ratio (2D airfoil) approximation neglected finite-span effects such as wingtip vortices and channel wall interactions, which likely influenced measured lift regardless of sensor resolution. Future experiments should mitigate these effects by increasing wing aspect ratio and providing greater clearance from water channel walls to better approximate two-dimensional flow assumptions.
+   Even with minimal measurement noise, experimental validation of CFD predictions requires that the conditions underlying the  physical assumptions be recreated within an acceptable tolerance. One example is that the infinite-aspect-ratio (airfoil) approximation neglected finite-span effects such as wingtip vortices and channel wall interactions, which likely influenced the measured lift force regardless of sensor resolution. Future experiments should mitigate these effects by increasing wing aspect ratio and providing greater clearance from water channel walls to better approximate two-dimensional flow assumptions.
 
 ---
 
@@ -195,7 +195,7 @@ The majority of the setup used beams, slots, and connectors that were already in
 - 3D printing with ABS and PETG for components designed with Siemens NX
 - Data processing (Python / MATLAB butter filter)
 
-## Read the Formal Report Here!
+## Read the Full Report Here!
 
 <div>
   <a href="/assets/posters/water-channel-paper.pdf" target="_blank">
