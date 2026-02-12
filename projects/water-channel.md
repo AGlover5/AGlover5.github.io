@@ -24,7 +24,7 @@ This project investigated flow behavior around three airfoils in a controlled wa
 <img width="868" height="242" alt="Wings" src="https://github.com/user-attachments/assets/206ba3ef-3fa9-494e-930d-43f4b875a9d1" />
 </p>
 
-The three airfoils of choice were called smooth (left), intermediately corrugated (middle), and extremely corrugated (right).  
+The three airfoils of choice were denoted as smooth (left), intermediately corrugated (middle), and extremely corrugated (right).  
 
 ---
 
