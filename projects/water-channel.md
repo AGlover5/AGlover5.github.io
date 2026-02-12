@@ -32,11 +32,6 @@ The three airfoils of choice were called smooth (black), intermediately corrugat
 Low Reynolds number fluid flow is an increasingly common regime for small UAVs and underwater drones. Prior CFD studies by Tang et al [1] suggested that corrugated airfoil geometries—motivated by dragonfly wing structures—could generate higher lift coefficients and improved lift-to-drag ratios compared to conventionally smooth, teardrop shaped NACA airfoils.
 The objective of this project was to experimentally validate these predicted trends and investigate the flow mechanisms responsible for performance differences in a controlled water channel environment.
 
-
-
-
-
-
 ## High Level Experimental Setup 
 The experimental setup was designed for rapid and repeatable iterations of the lift measurements as well as for dye visualization runs at different angles of attack.
 
@@ -113,7 +108,7 @@ The majority of the setup used beams, slots, and connectors that were already in
 ---
 
 ## Results
-
+**Measured Forces and Captured Vortices**
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
   <figure style="flex:1 1 260px; margin:0; text-align:center;">
