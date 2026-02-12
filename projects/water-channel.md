@@ -146,6 +146,9 @@ The majority of the setup used beams, slots, and connectors that were already in
 ---
 
 ## Engineering Conclusions
+- Designs for rapid construction, implimentation, and improvement are optimal in time constrained projects.
+- Uncertatinties in the test environment should (i.e. the uncertainty of the water flow propogated most of the uncertainty despite lower deviations in the strain guage voltages) 
+
 
 ---
 
