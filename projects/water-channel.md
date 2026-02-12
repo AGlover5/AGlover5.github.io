@@ -178,7 +178,7 @@ The majority of the setup used beams, slots, and connectors that were already in
 ## Engineering Conclusions
 
 - **Design for rapid iteration under time constraints:**  
-  Simpler experimental designs enabled rapid construction, deployment, and iteration within a tight timeline, allowing earlier data collection and faster reduction of uncertainty from the strain gauge voltage data.
+  Simpler experimental designs enabled rapid construction, deployment, and iteration within a tight timeline, allowing greater total data collection and a reduction in the    the strain gauge output voltage uncertainty.
 
 - **Uncertainty-cautious experiment design:**  
   Environmental uncertainties—particularly variability in water channel flow speed—dominated total measurement uncertainty despite the low noise in strain gauge voltage data. Designing experiments around dominant uncertainty sources should be the biggest 
