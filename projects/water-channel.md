@@ -150,10 +150,10 @@ The majority of the setup used beams, slots, and connectors that were already in
 - **Design for rapid iteration under time constraints:**  
   Simpler experimental designs enabled rapid construction, deployment, and iteration within a tight timeline, allowing earlier data collection and faster reduction of uncertainty from the strain gauge voltage data.
 
-- **Uncertainty cautious experiment design:**  
+- **Uncertainty-cautious experiment design:**  
   Environmental uncertainties—particularly variability in water channel flow speed—dominated total measurement uncertainty despite the low noise in strain gauge voltage data. Designing experiments around dominant uncertainty sources should be the biggest 
 
-- **Validity of Assumptions:**  
+- **Validity of the applied assumptions:**  
   Even with minimal equipment noise, the experimental implementation of CFD predictions needs to, within an acceptable tolerance, recreate the conditions that made a particular assumption valid. In this case, the infinite-aspect-ratio (airfoil) approximation neglected finite-span effects such as wingtip vortices and channel wall interactions, which likely influenced the lift regardless of measurement quality or resolution. Future exepriments should mitigate these effects by increasing wing aspect ratio and having greater clearance from the water channel walls to better approximate that two-dimensional flow assumptions.
 
 ---
