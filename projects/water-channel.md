@@ -18,11 +18,13 @@ title: Experimental Fluid Dynamics
 
 ## Summary
 
-This project investigated flow behavior around a physical model in a controlled water channel environment. The goal was to characterize flow structures, validate scaling assumptions, and compare experimental results to theoretical predictions.
+This project investigated flow behavior around three airfoils in a controlled water channel environment. The goal was to characterize flow structures, validate scaling assumptions, and compare experimental results to theoretical predictions.
 
 <p align="center">
 <img width="868" height="242" alt="Wings" src="https://github.com/user-attachments/assets/206ba3ef-3fa9-494e-930d-43f4b875a9d1" />
 </p>
+
+The three airfoils of choice were called smooth (black), intermediately corrugated (blue), and extremely corrugated (red). 
 
 ---
 
@@ -35,7 +37,7 @@ The objective of this project was to experimentally validate these predicted tre
 
 
 
-## Experimental Setup (High Level)
+## High Level Experimental Setup 
 The experimental setup was designed for rapid and repeatable iterations of the lift measurements as well as for dye visualization runs at different angles of attack.
 
 <p align="center">
