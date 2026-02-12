@@ -113,10 +113,6 @@ The majority of the setup used beams, slots, and connectors that were already in
 ---
 
 ## Results
-<p align="center">
-<img width="576" height="396" alt="Cl vs alpha" src="https://github.com/user-attachments/assets/cff2da02-3398-4e29-9337-51eccf5f081c" />
-</p>
-
 
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
@@ -130,10 +126,6 @@ The majority of the setup used beams, slots, and connectors that were already in
       Lift Coefficients at varying angle-of-attack
     </figcaption>
   </figure>
-
-  <div style="font-size:28px; line-height:1; margin: 6px 4px;">
-    ➡️
-  </div>
 
   <figure style="flex:1 1 260px; margin:0; text-align:center;">
     <img 
