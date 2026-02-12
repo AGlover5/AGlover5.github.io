@@ -26,7 +26,7 @@ This project investigated flow behavior around a physical model in a controlled 
 Low Reynolds number fluid flow is an increasingly common regime for small UAVs and underwater drones. Prior CFD studies by Tang et al [1] suggested that corrugated airfoil geometries—motivated by dragonfly wing structures—could generate higher lift coefficients and improved lift-to-drag ratios compared to conventionally smooth, teardrop shaped NACA airfoils.
 The objective of this project was to experimentally validate these predicted trends and investigate the flow mechanisms responsible for performance differences in a controlled water channel environment.
 
-## Experimental Setup- High Level
+## Experimental Setup (High Level)
 The experimental setup was designed for rapid and repeatable iterations of the lift measurements as well as for dye visualization runs at different angles of attack.
 
 <p align="center">
