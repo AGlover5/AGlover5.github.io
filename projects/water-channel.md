@@ -147,14 +147,13 @@ The majority of the setup used beams, slots, and connectors that were already in
 
 ## Engineering Conclusions
 
-
 ---
 
 ## Tools
 
 - Water channel facility at USC's Rapp Engineering Building
 - Dye Flow visualization
-- 3D printing with ABS for all designed components
+- 3D printing with ABS and PETG for designed components
 - Data processing (Python / MATLAB butter filter)
 
 ## Read the Formal Report Here!
