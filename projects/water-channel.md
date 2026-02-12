@@ -184,8 +184,7 @@ The majority of the setup used beams, slots, and connectors that were already in
    Environmental uncertainties—particularly variability in water channel flow speed—dominated total measurement uncertainty despite low noise in strain gauge voltage data. Designing experiments around dominant uncertainty sources should be the primary focus when allocating instrumentation and control effort.
 
 - **Validity of assumptions:**  
-   Even with minimal measurement noise, experimental validation of CFD predictions requires that the conditions underlying the  physical assumptions be recreated within an acceptable tolerance. One example is that the infinite-aspect-ratio (airfoil) approximation neglected finite-span effects such as wingtip vortices and water channel wall interactions. This likely influenced the measured lift force regardless of sensor resolution. Future experiments should mitigate these effects by increasing wing aspect ratio and providing greater clearance from water channel walls to better approximate two-dimensional flow assumptions.
-
+   Even with minimal measurement noise, experimental validation of CFD predictions requires that the physical conditions underlying the assumptions be recreated within an acceptable tolerance. One example is that the infinite-aspect-ratio (airfoil) approximation neglected finite-span effects such as wingtip vortices and water channel wall interactions. This likely influenced the measured lift force regardless of sensor resolution. Future experiments should mitigate these effects by increasing wing aspect ratio and providing greater clearance from water channel walls.
 ---
 
 ## Tools
