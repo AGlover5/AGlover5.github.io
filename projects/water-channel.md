@@ -82,8 +82,9 @@ The majority of the setup used beams, slots, and connectors that were already in
 ---
 
 ## Results
-
-*(Insert flow visualization images or plots here)*
+<p align="center">
+<img width="576" height="396" alt="Cl vs alpha" src="https://github.com/user-attachments/assets/cff2da02-3398-4e29-9337-51eccf5f081c" />
+</p>
 
 - Observed flow structures  
 - Comparison to theoretical expectations  
@@ -102,3 +103,5 @@ This experiment demonstrated the importance of physical validation when modeling
 - Water channel facility  
 - Flow visualization techniques  
 - Data processing (Python / MATLAB)
+
+## Read the Formal Report Here!
