@@ -178,13 +178,13 @@ The majority of the setup used beams, slots, and connectors that were already in
 ## Engineering Conclusions
 
 - **Design for rapid iteration under time constraints:**  
-  Simpler experimental designs enabled rapid construction, deployment, and iteration within a tight timeline, allowing greater total data collection and a reduction in the    the strain gauge output voltage uncertainty.
+   Simpler experimental designs enabled rapid construction, deployment, and iteration within a tight timeline, allowing greater overall data collection and a reduction in strain gauge output voltage uncertainty.
 
-- **Uncertainty-cautious experiment design:**  
-  Environmental uncertainties—particularly variability in water channel flow speed—dominated total measurement uncertainty despite the low noise in strain gauge voltage data. Designing experiments around dominant uncertainty sources should be the biggest 
+- **Uncertainty-aware experimental design:**  
+   Environmental uncertainties—particularly variability in water channel flow speed—dominated total measurement uncertainty despite low noise in strain gauge voltage data. Designing experiments around dominant uncertainty sources should be the primary focus when allocating instrumentation and control effort.
 
-- **Validity of the applied assumptions:**  
-  Even with minimal equipment noise, the experimental implementation of CFD predictions needs to, within an acceptable tolerance, recreate the conditions that made a particular assumption valid. In this case, the infinite-aspect-ratio (airfoil) approximation neglected finite-span effects such as wingtip vortices and channel wall interactions, which likely influenced the lift regardless of measurement quality or resolution. Future exepriments should mitigate these effects by increasing wing aspect ratio and having greater clearance from the water channel walls to better approximate that two-dimensional flow assumptions.
+- **Validity of applied assumptions:**  
+   Even with minimal measurement noise, experimental validation of CFD predictions requires that the conditions underlying modeling assumptions be recreated within an acceptable tolerance. In this case, the infinite-aspect-ratio (2D airfoil) approximation neglected finite-span effects such as wingtip vortices and channel wall interactions, which likely influenced measured lift regardless of sensor resolution. Future experiments should mitigate these effects by increasing wing aspect ratio and providing greater clearance from water channel walls to better approximate two-dimensional flow assumptions.
 
 ---
 
