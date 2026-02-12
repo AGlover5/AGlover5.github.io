@@ -77,12 +77,35 @@ The majority of the setup used beams, slots, and connectors that were already in
 
 **Generating a Calibration Curve for Strain Guage Signal to Lift Force Conversion**
 
+<div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
-<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
-<img width="742" height="344" alt="System Calibration Diagram" src="https://github.com/user-attachments/assets/e83e72df-fc83-4f15-bdc4-7f53cc491c00" />
-<img width="590" height="411" alt="Calibration Curve" src="https://github.com/user-attachments/assets/6a4ce975-177d-428a-ae7c-5ccfda616d53" />
+  <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/strain-gauge-calibration-setup.png" 
+      alt="Strain gauge calibration setup diagram" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      Calibration setup (applied loads → strain gauge output)
+    </figcaption>
+  </figure>
+
+  <div style="font-size:28px; line-height:1; margin: 6px 4px;">
+    ➡️
+  </div>
+
+  <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/strain-gauge-calibration-curve.png" 
+      alt="Strain gauge calibration curve" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      Calibration curve (strain → equivalent lift force)
+    </figcaption>
+  </figure>
+
 </div>
-
 
 ---
 
