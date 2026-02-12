@@ -23,8 +23,10 @@ I design physics-based autonomous systems for spacecraft and robotic platforms o
 ---
 
 ### 🌊 Experimental Fluid Dynamics (Water Channel test of Corrugated Airfoil)  
-**High-Fidelity Flow Characterization and Validation in a Water Channel**
-
+# Water Channel Testing of Dragonfly-Inspired Wings
+<p align="center">
+<img width="535" height="333" alt="Main Flow Viz AOA 3" src="https://github.com/user-attachments/assets/150c16b2-f256-4382-8635-fbca1b320053" />
+</p>
 - Physical flow experiments in a controlled water channel  
 - Flow visualization and scaling analysis  
 - Experimental validation of theoretical predictions  
