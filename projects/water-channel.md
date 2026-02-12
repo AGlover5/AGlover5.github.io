@@ -140,14 +140,14 @@ The majority of the setup used beams, slots, and connectors that were already in
 
 
 - Mean CL values show increase due to corrugation.
-- System noise dominated with heavy uncertainty despite maximimal prioirty on total number of runs per AOA and wing choice configuration. 
+- System noise dominated with heavy uncertainty despite maximimal priority on increasing number of tests to minimize strain guage uncertainty for each airofoil and angle combination. 
 - High sensitivity to flow speed variations due to motor power fluctuations and water channel geometry.
 
 ---
 
 ## Engineering Conclusions
-- Designs for rapid construction, implimentation, and improvement are optimal in time constrained projects.
-- Uncertatinties in the test environment should (i.e. the uncertainty of the water flow propogated most of the uncertainty despite lower deviations in the strain guage voltages) 
+- Simpler designs for rapid construction, implimentation, and redundancy are optimal in time limited projects.
+- Uncertainties in the test environment should play a big factor in the design of the  (i.e. the uncertainty of the water flow propogated most of the uncertainty despite lower deviations in the strain guage voltages) 
 
 
 ---
