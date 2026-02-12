@@ -8,7 +8,7 @@ title: Dragonfly-inspired Airfoil Performance
 
 ## View the Poster from the Expo!
 <div>
-  <a href="/assets/posters/water-channel-poster-web.pdf" target="_blank">
+  <a href="/assets/posters/water-channel-poster.pdf" target="_blank">
     <img
       src="/assets/images/water-channel-poster-thumb.png?v=2"
       alt="Water channel poster preview"
