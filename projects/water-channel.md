@@ -117,6 +117,41 @@ The majority of the setup used beams, slots, and connectors that were already in
 <img width="576" height="396" alt="Cl vs alpha" src="https://github.com/user-attachments/assets/cff2da02-3398-4e29-9337-51eccf5f081c" />
 </p>
 
+
+<div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+
+  <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/results.png" 
+      alt="CL vs alpha" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      Lift Coefficients at varying angle-of-attack
+    </figcaption>
+  </figure>
+
+  <div style="font-size:28px; line-height:1; margin: 6px 4px;">
+    ➡️
+  </div>
+
+  <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/flow-vis.png" 
+      alt="Flow Visualization" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      Flow Visualization of the intermediate design at +3 degrees 
+    </figcaption>
+  </figure>
+
+</div>
+
+
+
+
+
 - Mean CL values show increase due to corrugation.
 - System noise dominated with heavy uncertainty despite maximimal prioirty on total number of runs per AOA and wing choice configuration. 
 - High sensitivity to flow speed variations due to motor power fluctuations and water channel geometry.
