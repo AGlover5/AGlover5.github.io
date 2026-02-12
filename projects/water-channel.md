@@ -86,8 +86,8 @@ The majority of the setup used beams, slots, and connectors that were already in
 <img width="576" height="396" alt="Cl vs alpha" src="https://github.com/user-attachments/assets/cff2da02-3398-4e29-9337-51eccf5f081c" />
 </p>
 
-- Observed flow structures  
-- Comparison to theoretical expectations  
+- Mean CL values show increase due to corrugation.
+- System noise dominated with heavy uncertainty despite maximimal prioirty on total number of runs per AOA and wing choice configuration. 
 - Sensitivity to flow speed / geometry  
 
 ---
