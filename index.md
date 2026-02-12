@@ -5,7 +5,7 @@ title: Engineering Portfolio
 
 **Autonomy • Controls • Fluid Dynamics • Aerospace and Astronautical Engineering**
 
-I have a broad interest autonomous systems for spacecraft and robots operating under uncertainty as well as fluid dynamics research and design for aircraft and underwater marine platforms. 
+My portfolio work spans autonomous systems for spacecraft and robotics under uncertainty, alongside fluid dynamics research and design for aerial and marine platforms.
 
 ---
 
