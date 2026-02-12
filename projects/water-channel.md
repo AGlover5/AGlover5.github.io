@@ -75,9 +75,14 @@ The majority of the setup used beams, slots, and connectors that were already in
 
 ## Measurement & Data Processing
 
-- Instrumentation and calibration  
-- Data collection methodology  
-- Sources of uncertainty and error  
+**Generating a Calibration Curve for Strain Guage Signal to Lift Force Conversion**
+<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
+
+  <img width="590" height="411" alt="Calibration Curve" src="https://github.com/user-attachments/assets/186a3253-a519-4823-a364-04938742941e" />
+
+<img width="576" height="396" alt="Cl vs alpha" src="https://github.com/user-attachments/assets/5c1fc0bd-6b5c-42b9-b65c-8ca35f3ef90a" />
+
+</div>
 
 ---
 
@@ -88,7 +93,7 @@ The majority of the setup used beams, slots, and connectors that were already in
 
 - Mean CL values show increase due to corrugation.
 - System noise dominated with heavy uncertainty despite maximimal prioirty on total number of runs per AOA and wing choice configuration. 
-- Sensitivity to flow speed / geometry  
+- High sensitivity to flow speed variations due to motor power fluctuations and water channel geometry.
 
 ---
 
