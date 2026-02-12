@@ -5,7 +5,9 @@ title: Dragonfly-inspired Airfoil Performance
 
 # Water Channel Testing of Dragonfly-Inspired Wings
 
+<p align="center">
 <img width="535" height="333" alt="Main Flow Viz AOA 3" src="https://github.com/user-attachments/assets/150c16b2-f256-4382-8635-fbca1b320053" />
+</p>
 
 ## View the Poster from the Expo!
 <div>
