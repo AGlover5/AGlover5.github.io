@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dragonfly-inspired Airfoil Performance
+title: Experimental Fluid Dynamics
 ---
 
 ## View the Poster from the Expo!
