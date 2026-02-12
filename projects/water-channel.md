@@ -33,7 +33,7 @@ Low Reynolds number fluid flow is an increasingly common regime for small UAVs a
 The objective of this project was to experimentally validate these predicted trends and investigate the flow mechanisms responsible for performance differences in a controlled water channel environment.
 
 **Guiding Scientific Literature**
-The motivating insight from both Tang et al [1] and Deubel [2] was that the corugated patterns would crete lower pressure on the top surface of the airfoil, increasing lift.
+The motivating insight from both Tang et al [1] and Deubel et al [2] was that the corugated patterns would crete lower pressure on the top surface of the airfoil, increasing lift.
 
   <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
@@ -55,7 +55,7 @@ The motivating insight from both Tang et al [1] and Deubel [2] was that the coru
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
-      Diagram from Deubel [2] showing the desired vortex generation of a corrugated wing (mirrored)
+      Diagram from Deubel et al [2] showing the desired vortex generation of a corrugated wing (mirrored)
     </figcaption>
   </figure>
 
