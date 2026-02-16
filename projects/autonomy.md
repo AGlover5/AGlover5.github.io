@@ -25,8 +25,11 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 
 ## System Architecture
 
-** Model Predictive Control (MPC)**
+**Planar Dynamics**
 
+**State Space Model**
+
+**Model Predictive Control (MPC)**
 
 $$
 J = \sum_{k=0}^{N} \left( x_k^\top Q x_k + u_k^\top R u_k \right)
