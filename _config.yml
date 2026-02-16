@@ -10,7 +10,6 @@ kramdown:
   math_engine: mathjax
 
 header_pages:
-  - index.md
   - projects/autonomy.md
   - projects/water-channel.md
   - resume.md
