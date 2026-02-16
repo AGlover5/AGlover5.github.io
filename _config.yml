@@ -5,6 +5,7 @@ description: Aerospace • Autonomy • Robotics Engineering
 minima:
   custom_css:
     - assets/css/custom.css
+    
 markdown: kramdown
 kramdown:
   math_engine: mathjax
