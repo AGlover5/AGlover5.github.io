@@ -16,19 +16,21 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 ##  Control Scheme Goals
 
 1. Learn mass properties as quickly as possicle
-2. Disturb the ideal positon goal state trajectory as little as necesaary to achieve goal #1.
+2. Disturb the ideal positon goal state trajectory as little as possible to achieve goal #1.
 3. Consume the least amount of fuel possible to acheive goals #1 and #2.
-
-$$
-J = \sum_{k=0}^{N} \left( x_k^\top Q x_k + u_k^\top R u_k \right)
-$$
-
 
 *The MPC cost trades tracking error and control effort against information gain to accelerate parameter convergence.*
 
 *(Insert architecture diagram here)*
 
 ## System Architecture
+
+** Model Predictive Control (MPC)**
+
+
+$$
+J = \sum_{k=0}^{N} \left( x_k^\top Q x_k + u_k^\top R u_k \right)
+$$
 
 Dynamics → Estimator → Fisher Information → MPC → Control Execution
 
