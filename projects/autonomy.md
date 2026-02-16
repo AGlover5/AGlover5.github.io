@@ -20,8 +20,10 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 3. Consume the least amount of fuel possible to acheive goals #1 and #2.
 
 $$
-J = \sum_{k=0}^{N} \left( x_k^\top Q x_k + u_k^\top R u_k \right)
+J = \sum_{k=0}^{N} \left( \|x_k - x_k^{ref}\|_Q^2 + \|u_k\|_R^2 - \lambda \, \mathcal{I}(x_k) \right)
 $$
+
+*The MPC cost trades tracking error and control effort against information gain to accelerate parameter convergence.*
 
 *(Insert architecture diagram here)*
 
