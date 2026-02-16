@@ -19,32 +19,19 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 2. Disturb the ideal positon goal state trajectory as little as possible to achieve goal #1.
 3. Consume the least amount of fuel possible to acheive goals #1 and #2.
 
-*The MPC cost trades tracking error and control effort against information gain to accelerate parameter convergence.*
-
-*(Insert architecture diagram here)*
-
-## System Architecture
-
-**Planar Dynamics**
-
-**State Space Model**
-
-**Model Predictive Control (MPC)**
-
-$$
-J = \sum_{k=0}^{N} \left( x_k^\top Q x_k + u_k^\top R u_k \right)
-$$
-
-Dynamics → Estimator → Fisher Information → MPC → Control Execution
-
 ---
 
 ## Technical Components
 
+Dynamics → Estimator → Fisher Information → MPC → Control Execution
+
 ### Dynamics Modeling
+**Planar Dynamics**
 - Nonlinear relative orbital motion
 - Coupled translation and rotation
 - Parameterized inertia uncertainty
+
+**State Space Model**
 
 ### Estimation
 - Extended Kalman filter
@@ -52,9 +39,15 @@ Dynamics → Estimator → Fisher Information → MPC → Control Execution
 - Noise modeling and observability analysis
 
 ### Control
+**Model Predictive Control (MPC)**
+$$
+J = \sum_{k=0}^{N} \left( x_k^\top Q x_k + u_k^\top R u_k \right)
+$$
+
 - Finite-horizon MPC
 - Fisher-information-based cost term
 - Tunable information–fuel tradeoff
+*The MPC cost trades tracking error and control effort against information gain to accelerate parameter convergence.*
 
 ---
 
