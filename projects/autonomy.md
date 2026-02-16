@@ -3,7 +3,7 @@ layout: page
 title: Orbital Robotic Autonomy
 ---
 
-# Information-Driven Autonomous Orbital Maneuvering
+# Information-aware Excitation Trajectories for In-Orbit Mass Property Estimation
 
 ## Summary
 
@@ -13,9 +13,17 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 
 ---
 
-## System Architecture
+##  Control Scheme Goals
+
+1. Learn mass properties as quickly as possicle
+2. Disturb the ideal positon goal state trajectory as little as necesaary to achieve goal #1.
+3. Consume the least amount of fuel possible to acheive goals #1 and #2.
+
+
 
 *(Insert architecture diagram here)*
+
+## System Architecture
 
 Dynamics → Estimator → Fisher Information → MPC → Control Execution
 
