@@ -54,7 +54,7 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 ## Autonomy Stack
 
 ### MuJoCo for Physics in Python
-- Generated purpose-built and random superstructures out of passive modular blocks
+- Generated superstructures out of passive modular blocks (random or procedurally built)
 - Generated active agents from modular blocks with 4 thrusters for planar translation and rotation.
 - Simulated superstructere dynamics under motion due to docked agents.
 - Output state history of each agent over a complete trajectory execution. 
