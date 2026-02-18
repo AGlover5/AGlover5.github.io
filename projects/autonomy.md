@@ -64,13 +64,14 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 - Output state history of each agent over a complete trajectory execution. 
 
 ### CasADI for the Optimal Contol Problem (OCP)
-**Choice of IPOPT for the nonlinear programming function**
+**Choice of IPOPT for the nonlinear programming (NLP) function**
 - IPOPT was chosen because it is well suited option for:
     - nonlinear cost functions
     - offline trajectory solutions (comes with longer compute time)
-    - inequality-constrained systems
-    - More robust to poor inital condition inputs
-- Investigation of other optimizers is necessary for future online MPC applications that require faster computation speed.
+    - inequality-constrained states and control inputs
+    - more robust to poor inital conditions.
+  
+- Investigation of other optimizers is necessary for future online MPC applications that require faster computation speed (more on this in the future work)
  
 
 ### Model Predictive Control in Python (MPC)
