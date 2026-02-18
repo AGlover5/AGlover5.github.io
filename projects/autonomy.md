@@ -53,13 +53,6 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 ### Stage Cost for Model Predicitve Control (MPC)
 
 
-**Model Predictive Control (MPC)**
-
-- Finite-horizon MPC
-- Fisher-information-based cost term
-- Tunable information–fuel tradeoff
-*The MPC cost trades tracking error and control effort against information gain to accelerate parameter convergence.*
-
 ---
 
 ## Autonomy Stack
@@ -70,8 +63,17 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 - Simulated superstructere dynamics under motion due to docked agents.
 - Output state history of each agent over a complete trajectory execution. 
 
+### CasADI for the Optimal Contol Problem (OCP)
 
-## Results
+
+### Model Predictive Control in Python (MPC)
+
+- Finite-horizon MPC
+- Fisher-information-based cost term
+- Tunable information–fuel tradeoff
+*The MPC cost trades tracking error and control effort against information gain to accelerate parameter convergence.*
+
+## Engineering Outputs
 
 - Estimation error convergence
 - Trajectory comparison
