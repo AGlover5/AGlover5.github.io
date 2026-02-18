@@ -45,40 +45,34 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 
 **State Space Model**
 
-### Estimation
-- Extended Kalman filter
-- Augmented parameter state
-- Noise modeling and observability analysis
+
 
 ### Stage Cost for Model Predicitve Control (MPC)
-
 
 ---
 
 ## Autonomy Stack
 
-### MuJoCo for python
+### MuJoCo for Physics in Python
 - Generated purpose-built and random superstructures out of passive modular blocks
 - Generated active agents from modular blocks with 4 thrusters for planar translation and rotation.
 - Simulated superstructere dynamics under motion due to docked agents.
 - Output state history of each agent over a complete trajectory execution. 
 
-### CasADI for the Optimal Contol Problem (OCP)
+### CasADI for Trajectory Optimization
 **Choice of IPOPT for the nonlinear programming (NLP) function**
 - IPOPT was chosen because it is well suited option for:
-    - nonlinear cost functions
-    - offline trajectory solutions (comes with longer compute time)
+    - nonlinear dynamics and/or constraints
+    - offline trajectory calculations (comes with longer compute time)
     - inequality-constrained states and control inputs
-    - systems sensitive to poor inital conditions.
+    - systems sensitive to poor inital conditions/cold starts
   
 - Investigation of other optimizers is necessary for future online MPC applications that require faster computation speed (more on this in the future work)
  
-
 ### Model Predictive Control in Python (MPC)
 
-- Finite-horizon MPC
-- Fisher-information-based cost term
-- Tunable information–fuel tradeoff
+- Tunable information seeking 
+
 *The MPC cost trades tracking error and control effort against information gain to accelerate parameter convergence.*
 
 ## Engineering Outputs
@@ -94,6 +88,13 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 Increasing Fisher weighting accelerated parameter convergence but increased control effort and trajectory curvature. A hybrid weighting strategy provided the best performance across mission objectives.
 
 ---
+#Future and Planned Work
+
+### Estimation
+- Extended Kalman filter
+- Augmented parameter state
+- Noise modeling and observability analysis
+
 
 ## Applicable Missions
 
