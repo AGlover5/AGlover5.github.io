@@ -35,9 +35,7 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 
 ---
 
-## Technical Components
-
-Dynamics → Estimator → Fisher Information → MPC → Control Execution
+## Theory
 
 ### Dynamics Modeling
 **Planar Dynamics**
@@ -52,11 +50,10 @@ Dynamics → Estimator → Fisher Information → MPC → Control Execution
 - Augmented parameter state
 - Noise modeling and observability analysis
 
-### Control
+### Stage Cost for Model Predicitve Control (MPC)
+
+
 **Model Predictive Control (MPC)**
-$$
-J = \sum_{k=0}^{N} \left( x_k^\top Q x_k + u_k^\top R u_k \right)
-$$
 
 - Finite-horizon MPC
 - Fisher-information-based cost term
@@ -65,9 +62,15 @@ $$
 
 ---
 
-## Results
+## Autonomy Stack
 
-*(Insert plots here)*
+### MuJoCo for python
+- Generated purpose-built and random superstructures from passive modular blocks
+- Generated active agents from modular blocks with 4 thrusters for planar translation and rotation.
+- Simulated superstructere dynamics under motion from docked agents.
+- Output state history of each agent over a complete trajectory execution. 
+
+## Results
 
 - Estimation error convergence
 - Trajectory comparison
