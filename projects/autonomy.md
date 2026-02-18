@@ -69,7 +69,7 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
     - nonlinear cost functions
     - offline trajectory solutions (comes with longer compute time)
     - inequality-constrained states and control inputs
-    - more robust to poor inital conditions.
+    - systems sensitive to poor inital conditions.
   
 - Investigation of other optimizers is necessary for future online MPC applications that require faster computation speed (more on this in the future work)
  
