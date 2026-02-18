@@ -5,6 +5,20 @@ title: Orbital Robotic Autonomy
 
 # Information-aware Excitation Trajectories for In-Orbit Mass Property Estimation
 
+## Read the Paper!
+<div>
+  <a href="/assets/posters/water-channel-poster.pdf" target="_blank">
+    <img
+      src="/assets/images/water-channel-poster-thumb.png?v=2"
+      alt="Water channel poster preview"
+      width="220"
+      style="border:1px solid #ddd; border-radius:6px;"
+    >
+  </a>
+</div>
+<p><em>Click the preview to open the full poster (PDF).</em></p>
+
+
 ## Summary
 
 This project implements an autonomous guidance and estimation framework for spacecraft operating under uncertain mass properties. Traditional controllers minimize tracking error but do not explicitly optimize parameter observability.
