@@ -65,7 +65,7 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
     - nonlinear dynamics and/or constraints
     - offline trajectory calculations (comes with longer compute time)
     - inequality-constrained states and control inputs
-    - systems sensitive to poor inital conditions/cold starts
+    - when the system needs an initial plan from a cold start. 
   
 - Investigation of other optimizers is necessary for future online MPC applications that require faster computation speed (more on this in the future work)
  
