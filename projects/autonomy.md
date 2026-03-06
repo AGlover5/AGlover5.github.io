@@ -22,7 +22,7 @@ This document reflects the version submitted for course evaluation. The project 
 
 ## Summary
 
-This project evaluated techniques for information-aware trajectory planning of a docked agent (or agents) for the mass property estimation of a larger unknown superstructure in the on-orbit microgravity environment. The control approach used model predictive control (MPC) for the generation of excitation trajectories by incorporating Fisher Information directly into the cost function while also balancing state and input costs. This project was a collaborative research effort. My primary role focused on the formulation of the MPC control architecture and cost function formulation while assisting the leads responsible for the physics based simulation of the agent-structure dynamics in MuJoCo. 
+This project evaluated techniques for information-aware trajectory planning of a docked agent (or agents) for the mass property estimation of a larger unknown superstructure in the in-orbit microgravity environment. The control approach used model predictive control (MPC) for the generation of excitation trajectories by incorporating Fisher Information directly into the cost function while also balancing state and input costs. This project was a collaborative research effort. My primary role focused on the formulation of the MPC control architecture and cost function formulation while assisting the leads responsible for the physics based simulation of the agent-structure dynamics in MuJoCo. 
 
 ---
 
