@@ -148,17 +148,19 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 
 ### Heurisitc Approach for a Dynamic Fisher-term Weighting
 
-An exponential decay term was applied at each step k in the following standard form to heurisitcially decrease the realtove imporatnce the Fisher Information term in the total stage cost. 
+An exponential decay term was applied at each step k to heuristically decrease the relative importance of the Fisher Information component within the total cost function over the MPC horizon.
 
 <p align="center">
 <img width="257" height="55" alt="decay" src="https://github.com/user-attachments/assets/bad74129-efb4-490c-a4cb-f33cb69cbbdd" />
 </p>
 
-Since this was a different method to the tuning for the indiviual parameters, the Fisher Information for all estimates  was treated as a scalar (trace of the FIM) to single out different approach from what was done earlier. Thus the cost term changed to the following: 
+The Fisher Information for the mass property estimates was treated as a scalar (trace of the FIM) to single out this new approach from the earlier comparison of weighting the priority of each parameter differently. Thus the cost term changed to the following: 
 
 <p align="center">
 <img width="378" height="80" alt="screenshot 2026-03-05 at 8 06 34 PM" src="https://github.com/user-attachments/assets/524df193-e283-4a27-afb1-f1974d499dc0" />
 </p>
+
+The six state vectors showed the following response to the applicaton of γ = 0.2 and γ = 0.9, respectively in the decaying FIM weight, λ.
 
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
@@ -228,7 +230,7 @@ Increasing Fisher weighting accelerated parameter convergence but increased cont
 
 ---
 
-##Future and Planned Work
+## Future and Planned Work
 
 ### Estimation
 - Extended Kalman filter
