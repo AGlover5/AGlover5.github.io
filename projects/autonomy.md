@@ -42,9 +42,9 @@ This project was developed as a collaborative research effort. My primary contri
 
 ---
 
-## Theory (High leve)
+## Theory (High level Outline)
 
-**State Space Model**
+**Standard form of State Space Model**
 
 <p align="center">
 <img width="132" height="66" alt="screenshot 2026-03-05 at 9 33 19 PM" src="https://github.com/user-attachments/assets/db56acf9-941c-451d-9786-081a56d62f0f" />
@@ -55,9 +55,9 @@ with mass property estimate
 <img width="183" height="26" alt="screenshot 2026-03-05 at 9 34 17 PM" src="https://github.com/user-attachments/assets/c9ccec68-1d1f-42ef-8334-6a3bfbc2b9b9" />
 </p>
 
-**Fisher Information Matrix (FIM) for the parameter vector θ**
+**Mass Property Extraction from Spacecraft Motion**
 
-<img width="121" height="24" alt="screenshot 2026-03-05 at 9 35 56 PM" src="https://github.com/user-attachments/assets/81efc6f8-40eb-4124-88ca-7ad0b39b3270" />
+<img width="418" height="121" alt="mass-extract" src="https://github.com/user-attachments/assets/70f5e719-07d5-4338-bcbd-36fc58d39eb1" />
 
 ---
 
