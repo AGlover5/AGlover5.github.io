@@ -42,27 +42,6 @@ This project was developed as a collaborative research effort. My primary contri
 
 ---
 
-## Theory (High level Outline)
-
-**Standard form of State Space Model**
-
-<p align="center">
-<img width="132" height="66" alt="screenshot 2026-03-05 at 9 33 19 PM" src="https://github.com/user-attachments/assets/db56acf9-941c-451d-9786-081a56d62f0f" />
-</p>
-with mass property estimate
-
-<p align="center">
-<img width="183" height="26" alt="screenshot 2026-03-05 at 9 34 17 PM" src="https://github.com/user-attachments/assets/c9ccec68-1d1f-42ef-8334-6a3bfbc2b9b9" />
-</p>
-
-**Mass Property Extraction from Spacecraft Motion**
-
-<p align="center">
-<img width="418" height="121" alt="mass-extract" src="https://github.com/user-attachments/assets/70f5e719-07d5-4338-bcbd-36fc58d39eb1" />
-</p>
-
----
-
 ## Autonomy and Simulation Stack
 
 ### MuJoCo Physics Simulation Environment
