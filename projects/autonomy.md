@@ -44,14 +44,20 @@ This project was developed as a collaborative research effort. My primary contri
 
 ## Theory
 
-### Dynamics Modeling
-**Planar Dynamics**
-- Nonlinear relative orbital motion
-- Coupled translation and rotation
-- Parameterized inertia uncertainty
-
 **State Space Model**
 
+<p align="center">
+<img width="132" height="66" alt="screenshot 2026-03-05 at 9 33 19 PM" src="https://github.com/user-attachments/assets/db56acf9-941c-451d-9786-081a56d62f0f" />
+</p>
+with mass property estimate
+
+<p align="center">
+<img width="183" height="26" alt="screenshot 2026-03-05 at 9 34 17 PM" src="https://github.com/user-attachments/assets/c9ccec68-1d1f-42ef-8334-6a3bfbc2b9b9" />
+</p>
+
+**Fisher Information Matrix (FIM) for the parameter vector θ**
+
+<img width="121" height="24" alt="screenshot 2026-03-05 at 9 35 56 PM" src="https://github.com/user-attachments/assets/81efc6f8-40eb-4124-88ca-7ad0b39b3270" />
 
 
 ### Stage Cost for Model Predicitve Control (MPC)
@@ -106,7 +112,7 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
  
 ### Model Predictive Control in Python (MPC)
 
-The optimal control problem is formulated for the MPC controller in python.
+The optimal control problem is formulated IPOPT solver.
 
 <p align="center">
 <img width="286" height="174" alt="OCP" src="https://github.com/user-attachments/assets/86b62fe9-b1e8-469f-aab2-e2c44ff66722" />
