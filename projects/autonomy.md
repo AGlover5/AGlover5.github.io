@@ -106,9 +106,11 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
  
 ### Model Predictive Control in Python (MPC)
 
-- Tunable information seeking 
+The optimal control problem is formulated for the MPC controller in python.
 
-*The MPC cost trades tracking error and control effort against information gain to accelerate parameter convergence.*
+<p align="center">
+<img width="286" height="174" alt="OCP" src="https://github.com/user-attachments/assets/86b62fe9-b1e8-469f-aab2-e2c44ff66722" />
+</p>
 
 ## Engineering Outputs
 
