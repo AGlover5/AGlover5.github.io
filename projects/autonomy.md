@@ -168,7 +168,9 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 
 </div>
 <br>
+
 ---
+
 ### Mass Convergence
 
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
@@ -197,12 +199,15 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 
 </div>
 <br>
+
 ---
+
 ## Engineering Tradeoffs
 
 Increasing Fisher weighting accelerated parameter convergence but increased control effort and trajectory curvature. A hybrid weighting strategy provided the best performance across mission objectives.
 
 ---
+
 #Future and Planned Work
 
 ### Estimation
