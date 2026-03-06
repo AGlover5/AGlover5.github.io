@@ -10,7 +10,7 @@ title: Orbital Robotic Autonomy
   <a href="/assets/posters/ASTE_599_Final_Project-3.pdf" target="_blank">
     <img
       src="/assets/images/Paper-thumb.png?v=2"
-      alt="Water channel poster preview"
+      alt="Paper Preview"
       width="220"
       style="border:1px solid #ddd; border-radius:6px;"
     >
@@ -76,7 +76,7 @@ My primary technical focus was on the MPC cost formulation and the evaluation of
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
-      Lift Coefficients at varying angle-of-attack
+      Individual Floatbot Agent (active with simulated control thrusters)
     </figcaption>
   </figure>
 
