@@ -18,6 +18,7 @@ title: Orbital Robotic Autonomy
 </div>
 <p><em>Click the preview to open the full poster (PDF).</em></p>
 
+This document reflects the version submitted for course evaluation. The project is currently being extended with additional sensing and estimation components toward a potential publication.
 
 ## Summary
 
