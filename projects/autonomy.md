@@ -72,7 +72,7 @@ My primary technical focus was on the MPC cost formulation and the evaluation of
   <figure style="flex:1 1 260px; margin:0; text-align:center;">
     <img 
       src="/assets/images/block.png" 
-      alt="CL vs alpha" 
+      alt="block" 
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
@@ -83,7 +83,7 @@ My primary technical focus was on the MPC cost formulation and the evaluation of
   <figure style="flex:1 1 260px; margin:0; text-align:center;">
     <img 
       src="/assets/images/superstructure.png" 
-      alt="Flow Visualization" 
+      alt="Superstructure" 
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
@@ -113,10 +113,31 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 
 ## Engineering Outputs
 
-- Estimation error convergence
-- Trajectory comparison
-- Control effort trade study
+<div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
+  <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/mass-error.png" 
+      alt="mass error" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      Individual Floatbot Agent (active with simulated control thrusters)
+    </figcaption>
+  </figure>
+
+  <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/inertia-error.png" 
+      alt="inertia error" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      Randomly generated superstructure 
+    </figcaption>
+  </figure>
+
+</div>
 ---
 
 ## Engineering Tradeoffs
