@@ -61,11 +61,39 @@ My primary technical focus was on the MPC cost formulation and the evaluation of
 
 ## Autonomy Stack
 
-### MuJoCo for Physics in Python
+### MuJoCo for Physics Engine in Python (assitant capactiy to lead member)
 - Generated superstructures out of passive modular blocks (random or procedurally built)
 - Generated active agents from modular blocks with 4 thrusters for planar translation and rotation.
 - Simulated superstructere dynamics under motion due to docked agents.
-- Output state history of each agent over a complete trajectory execution. 
+- Output state history of each agent over a complete trajectory execution.
+
+<div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+
+  <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/block.png" 
+      alt="CL vs alpha" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      Lift Coefficients at varying angle-of-attack
+    </figcaption>
+  </figure>
+
+  <figure style="flex:1 1 260px; margin:0; text-align:center;">
+    <img 
+      src="/assets/images/superstructure.png" 
+      alt="Flow Visualization" 
+      style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
+    >
+    <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
+      Randomly generated superstructure 
+    </figcaption>
+  </figure>
+
+</div>
+
+A team member developed the on-orbit superstructure model used in the MuJoCo simulation environment. I used this model to evaluate the behavior of the MPC controller under different cost formulations and excitation trajectories.
 
 ### CasADI for Trajectory Optimization
 **Choice of IPOPT for the nonlinear programming (NLP) function**
