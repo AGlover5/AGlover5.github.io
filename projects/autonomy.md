@@ -154,7 +154,11 @@ An exponential decay term was applied at each step k in the following standard f
 <img width="257" height="55" alt="decay" src="https://github.com/user-attachments/assets/bad74129-efb4-490c-a4cb-f33cb69cbbdd" />
 </p>
 
-Since this was a different method to the tuning for the indiviual parameters, the Fisher Information for all estimates  was treated as a scalar (trace of the FIM) to single out different approach from what was done earlier .
+Since this was a different method to the tuning for the indiviual parameters, the Fisher Information for all estimates  was treated as a scalar (trace of the FIM) to single out different approach from what was done earlier. Thus the cost term changed to the following: 
+
+<p align="center">
+<img width="378" height="80" alt="screenshot 2026-03-05 at 8 06 34 PM" src="https://github.com/user-attachments/assets/524df193-e283-4a27-afb1-f1974d499dc0" />
+</p>
 
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
