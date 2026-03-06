@@ -32,7 +32,6 @@ This work embeds the Fisher Information Matrix directly into a model predictive 
 
 This project was developed as a collaborative research effort. My primary contributions focused on the formulation of the MPC control architecture and cost function design. I led the implementation and tuning of the Fisher Information–weighted cost structure and performed the simulation experiments used to evaluate the trade-offs between trajectory tracking and parameter excitation.
 
-My primary technical focus was on the MPC cost formulation and the evaluation of controller performance across simulated experiments
 ---
 
 ##  Control Scheme Goals
@@ -143,6 +142,8 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 </div>
 
 <br>
+***Key Insights***
+Mass estimation error was reduced to <1% when the individual costs can be tuned with a set of individual λ combinations shown by the color scale for the mass and inertia parameters. 
 
 ---
 
