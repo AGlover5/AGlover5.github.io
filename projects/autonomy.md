@@ -171,7 +171,7 @@ The six state vectors showed the following response to the applicaton of γ = 0.
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
-      Time trace of the trajectories for the six states using γ = 0.2.
+      State trajectories over time using γ = 0.2.
     </figcaption>
   </figure>
 
@@ -182,11 +182,16 @@ The six state vectors showed the following response to the applicaton of γ = 0.
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
-      Time trace of the trajectories for the six states using γ = 0.9.
+      State trajectories over time using γ = 0.9.
     </figcaption>
   </figure>
 
 </div>
+
+**Results** 
+
+The response in the higher case shows much more excitated movement in the γ = 0.2 case since the cost function is still commanding the controller to place a higher relative prioirity on exploratory attitudes for mass property estimation. Conversely, the γ = 0.2 case predictably shows a much more end state oriented trajectory with an initial excitation but quick resolution to the reference. 
+
 
 <br>
 
