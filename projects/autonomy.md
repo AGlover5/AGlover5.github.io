@@ -22,15 +22,7 @@ This document reflects the version submitted for course evaluation. The project 
 
 ## Summary
 
-This project implements an autonomous guidance and estimation framework for spacecraft operating under uncertain mass properties. Traditional controllers minimize tracking error but do not explicitly optimize parameter observability.
-
-This work embeds the Fisher Information Matrix directly into a model predictive control framework to actively generate informative trajectories while maintaining control stability.
-
----
-
-# My Role
-
-This project was developed as a collaborative research effort. My primary contributions focused on the formulation of the MPC control architecture and cost function design. I led the implementation and tuning of the Fisher Information–weighted cost structure and performed the simulation experiments used to evaluate the trade-offs between trajectory tracking and parameter excitation.
+This project evaluated techniques for information-aware trajectory planning of a docked agent (or agents) for the mass property estimation of a larger unknown superstructure in the on-orbit microgravity environment. The control approach used model predictive control (MPC) for the generation of excitation trajectories by incorporating Fisher Information directly into the cost function while also balancing state and input costs. This project was a collaborative research effort. My primary role focused on the formulation of the MPC control architecture and cost function formulation while assisting the leads responsible for the physics based simulation of the agent-structure dynamics in MuJoCo. 
 
 ---
 
@@ -222,7 +214,7 @@ The mass property estimation was plotted against time for the cases described ab
 
 <br>
 ***Key Insights***
-Although the γ = 0.9 case paradoxically seems to converge quicker, in the example of mass, it converges to roughly 0.2 kg off of the true values and seemingly lacks the excitation to correct the estimate. 
+While the γ = 0.9 case paradoxically seems to converge quicker, in the example of mass, it converges to roughly 0.2 kg off of the true values and seemingly lacks the excitation to correct the estimate. 
 
 ---
 
@@ -233,27 +225,19 @@ Although the γ = 0.9 case paradoxically seems to converge quicker, in the examp
 
 ---
 
-## Future and Planned Work
+## Planned Extensions
 
-### Parameter Estimation
-- Online MPC
-- Extended Kalman filter to incoporate sensior and model noise
-- Augmented parameter state
-- Noise modeling and observability analysis
+- Improve simulation realism by augmenting MuJoCo truth data with modeled IMU, contact, and vision sensor noise.  
+- Implement online MPC and parameter estimation with an Extended Kalman Filter (EKF) and exploring optimization methods beyond IPOPT for faster solve times needed for online framework. 
+- Extend equations of motion to full 3D dyanmics
+- Investigate multiagent coordination with NetworkX.
 
 
-## Applicable Missions
-
-- On-orbit servicing
-- Autonomous rendezvous
-- Space domain awareness
-- Uncooperative target capture
 
 ---
 
 ## Tools
 
-- Python  
-- NumPy  
+- Python (NumPy)   
 - CasADi  
 - MATLAB  
