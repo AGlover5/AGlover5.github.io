@@ -57,7 +57,9 @@ with mass property estimate
 
 **Mass Property Extraction from Spacecraft Motion**
 
+<p align="center">
 <img width="418" height="121" alt="mass-extract" src="https://github.com/user-attachments/assets/70f5e719-07d5-4338-bcbd-36fc58d39eb1" />
+</p>
 
 ---
 
