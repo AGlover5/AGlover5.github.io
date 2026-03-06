@@ -117,6 +117,12 @@ The optimal control problem is formulated for the MPC controller in python.
 ---
 
 ### Tuning the Fisher Term
+
+<p align="center">
+<img width="318" height="31" alt="stage-cost" src="https://github.com/user-attachments/assets/2f442a7a-90db-405e-9535-83fab30ac5ac" />
+</p>
+
+
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
   <figure style="flex:1 1 260px; margin:0; text-align:center;">
