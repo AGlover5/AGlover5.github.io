@@ -171,7 +171,7 @@ The six state vectors showed the following response to the applicaton of γ = 0.
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
-      Individual Floatbot Agent (active with simulated control thrusters)
+      Time trace of the trajectories for the six states using γ = 0.2.
     </figcaption>
   </figure>
 
@@ -182,7 +182,7 @@ The six state vectors showed the following response to the applicaton of γ = 0.
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
-      Randomly generated superstructure 
+      Time trace of the trajectories for the six states using γ = 0.9.
     </figcaption>
   </figure>
 
