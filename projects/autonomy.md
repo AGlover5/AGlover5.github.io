@@ -175,8 +175,8 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 
   <figure style="flex:1 1 260px; margin:0; text-align:center;">
     <img 
-      src="/assets/images/mass-error.png" 
-      alt="mass error" 
+      src="/assets/images/mass-conv-02.png" 
+      alt="mass convergence 02" 
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
@@ -186,8 +186,8 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 
   <figure style="flex:1 1 260px; margin:0; text-align:center;">
     <img 
-      src="/assets/images/inertia-error.png" 
-      alt="inertia error" 
+      src="/assets/images/mass-conv-09.png" 
+      alt="mass convergence 09" 
       style="width:100%; max-width:360px; height:auto; border:1px solid #ddd; border-radius:6px;"
     >
     <figcaption style="font-size:0.9em; color:#555; margin-top:6px;">
