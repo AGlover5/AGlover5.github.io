@@ -42,7 +42,7 @@ This project was developed as a collaborative research effort. My primary contri
 
 ---
 
-## Theory
+## Theory (High leve)
 
 **State Space Model**
 
@@ -58,9 +58,6 @@ with mass property estimate
 **Fisher Information Matrix (FIM) for the parameter vector θ**
 
 <img width="121" height="24" alt="screenshot 2026-03-05 at 9 35 56 PM" src="https://github.com/user-attachments/assets/81efc6f8-40eb-4124-88ca-7ad0b39b3270" />
-
-
-### Stage Cost for Model Predicitve Control (MPC)
 
 ---
 
