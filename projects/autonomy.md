@@ -5,7 +5,7 @@ title: Orbital Robotic Autonomy
 
 # Information-aware Excitation Trajectories for In-Orbit Mass Property Estimation
 
-## Read the Paper! (course submission version
+## Read the Paper! (course submission version)
 <div>
   <a href="/assets/posters/ASTE_599_Final_Project-3.pdf" target="_blank">
     <img
