@@ -140,6 +140,8 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 
 </div>
 
+<br>
+
 ---
 
 ### Heurisitc Approach for Dynamic Fisher Weighting
@@ -169,6 +171,8 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
   </figure>
 
 </div>
+
+<br>
 
 ---
 
@@ -200,6 +204,8 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 
 </div>
 
+<br>
+
 ---
 
 ## Engineering Tradeoffs
@@ -208,7 +214,7 @@ Increasing Fisher weighting accelerated parameter convergence but increased cont
 
 ---
 
-#Future and Planned Work
+##Future and Planned Work
 
 ### Estimation
 - Extended Kalman filter
