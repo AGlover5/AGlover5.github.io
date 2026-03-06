@@ -139,7 +139,9 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
   </figure>
 
 </div>
+
 ---
+
 ### Heurisitc Approach for Dynamic Fisher Weighting
 
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
@@ -167,7 +169,6 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
   </figure>
 
 </div>
-<br>
 
 ---
 
@@ -198,7 +199,6 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
   </figure>
 
 </div>
-<br>
 
 ---
 
@@ -228,6 +228,6 @@ Increasing Fisher weighting accelerated parameter convergence but increased cont
 ## Tools
 
 - Python  
-- NumPy / SciPy  
+- NumPy  
 - CasADi  
 - MATLAB  
