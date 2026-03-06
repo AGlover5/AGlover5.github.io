@@ -95,7 +95,7 @@ with mass property estimate
 
 </div>
 
-A team member developed the on-orbit superstructure model used in the MuJoCo simulation environment. I used this model to evaluate the behavior of the MPC controller under different cost formulations and excitation trajectories.
+A team member led the developement of the on-orbit floatbot agent and superstructure models used in the MuJoCo simulation environment. I used this model to evaluate the behavior in an MPC controller under different cost formulations and excitation trajectories.
 
 ### CasADi for Trajectory Optimization
 **Choice of IPOPT for the nonlinear programming (NLP) function**
