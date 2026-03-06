@@ -61,7 +61,7 @@ with mass property estimate
 
 ---
 
-## Autonomy Stack
+## Autonomy and Simulation Stack
 
 ### MuJoCo for Physics Engine in Python (assitant capactiy to lead member)
 - Generated superstructures out of passive modular blocks (random or procedurally built)
