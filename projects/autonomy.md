@@ -189,13 +189,13 @@ The six state vectors showed the following response to the applicaton of γ = 0.
 </div>
 
 ***Key Insights***
-The response in the higher case shows much more excitated motion in the γ = 0.2 case since the cost function commands a higher relative prioirity on exploratory attitudes for longer. Conversely, the γ = 0.9 case predictably shows a much more state convergence oriented trajectory, showing only an initial excitation but quick resolution to the reference. Since this demonstrates that the priority on the state convergence and parameter exploration can be traded by the amount at which you tune down the FIM weight, it is then worth evaluating the mass convergence to get more insight into how to accurately determine that tradeoff.
+The γ = 0.2 case shows greater excitatoin since a higher relative prioirity on exploratory attitudes is applied for longer. Conversely, the γ = 0.9 case predictably shows a much more state convergence oriented trajectory. Since this demonstrates that the priority on the state convergence and information exploration can be traded by the amount the wieght on the FIM weight decays, it is worth evaluating the mass convergence perfomrance in both cases to get insight on the optimal decay rate. 
 
 <br>
 
 ---
 
-### Mass Convergence
+### Mass Convergenc
 
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
