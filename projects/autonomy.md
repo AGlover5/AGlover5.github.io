@@ -95,7 +95,7 @@ My primary technical focus was on the MPC cost formulation and the evaluation of
 
 A team member developed the on-orbit superstructure model used in the MuJoCo simulation environment. I used this model to evaluate the behavior of the MPC controller under different cost formulations and excitation trajectories.
 
-### CasADI for Trajectory Optimization
+### CasADi for Trajectory Optimization
 **Choice of IPOPT for the nonlinear programming (NLP) function**
 - IPOPT was chosen because it is well suited option for:
     - nonlinear dynamics and/or constraints
@@ -112,6 +112,8 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 *The MPC cost trades tracking error and control effort against information gain to accelerate parameter convergence.*
 
 ## Engineering Outputs
+
+---
 
 ### Tuning the Fisher Term
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
@@ -144,7 +146,12 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 
 ---
 
-### Heurisitc Approach for Dynamic Fisher Weighting
+### Heurisitc Approach for a Dynamic Fisher-term Weighting
+
+An exponential decay term was applied at each step k in the following standard form to heurisitcially decrease the realtove imporatnce the Fisher Information term in the total stage cost. 
+
+
+Since this was a different method to the tuning for the indiviual parameters, the Fisher Information for all estimates  was treated as a scalar (trace of the FIM) to single out different approach from what was done earlier .
 
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
