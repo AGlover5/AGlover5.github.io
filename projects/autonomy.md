@@ -36,9 +36,9 @@ This project was developed as a collaborative research effort. My primary contri
 
 ##  Control Scheme Goals
 
-1. Learn mass properties as quickly as possicle
-2. Disturb the ideal positon goal state trajectory as little as possible to achieve goal #1.
-3. Consume the least amount of fuel possible to acheive goals #1 and #2.
+1. Learn mass properties as quickly as possible
+2. Disturb the ideal position goal state trajectory as little as possible to achieve goal #1.
+3. Consume the least amount of fuel possible to achieve goals #1 and #2.
 
 ---
 
@@ -87,7 +87,7 @@ A team member led the developement of the on-orbit floatbot agent and superstruc
   
 - Investigation of other optimizers is necessary for future online MPC applications that require faster computation speed (more on this in the future work)
  
-### Model Predictive Control in Python (MPC)
+### Model Predictive Control (MPC) in Python 
 
 Optimal control problem formulation for IPOPT:
 
@@ -101,7 +101,7 @@ The Fisher Information Matrix implementation into the cost function is described
 
 ---
 
-### Tuning the Fisher Term
+### Tuning the Fisher Information Term
 
 In this first case, the cost function individually tunes the FIM weight on each parameter by taking the diagonal of the matrix.
 
@@ -142,7 +142,7 @@ Property estimation error was reduced to <1% when the individual costs could be 
 
 ---
 
-### Heurisitc Approach for a Dynamic Fisher Information Term Weighting
+### Heuristic Approach for a Dynamic Fisher Information Term Weighting
 
 An exponential decay term was applied at each step k to heuristically decrease the relative importance of the Fisher Information component within the total cost function over the MPC horizon.
 
