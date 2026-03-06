@@ -189,7 +189,7 @@ The six state vectors showed the following response to the applicaton of γ = 0.
 </div>
 
 ***Key Insights***
-The γ = 0.2 case shows greater excitatoin since a higher relative prioirity on exploratory attitudes is applied for longer. Conversely, the γ = 0.9 case predictably shows a much more state convergence oriented trajectory. Since this demonstrates that the priority on the state convergence and information exploration can be traded by the amount the wieght on the FIM weight decays, it is worth evaluating the mass convergence perfomrance in both cases to get insight on the optimal decay rate. 
+The γ = 0.2 case shows greater excitation since a higher relative priority on exploratory attitudes is applied for longer. Conversely, the γ = 0.9 case predictably shows a much more state convergence oriented trajectory. Since this demonstrates that the priority on the state convergence and information exploration can be traded by the amount the weight on the FIM weight decays, it is worth evaluating the mass convergence performance in both cases to get insight on the optimal decay rate. 
 
 <br>
 
