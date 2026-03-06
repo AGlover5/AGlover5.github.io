@@ -151,6 +151,9 @@ A team member developed the on-orbit superstructure model used in the MuJoCo sim
 An exponential decay term was applied at each step k in the following standard form to heurisitcially decrease the realtove imporatnce the Fisher Information term in the total stage cost. 
 
 
+<img width="257" height="55" alt="decay" src="https://github.com/user-attachments/assets/bad74129-efb4-490c-a4cb-f33cb69cbbdd" />
+
+
 Since this was a different method to the tuning for the indiviual parameters, the Fisher Information for all estimates  was treated as a scalar (trace of the FIM) to single out different approach from what was done earlier .
 
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
