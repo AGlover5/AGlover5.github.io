@@ -95,7 +95,7 @@ Optimal control problem formulation for IPOPT:
 <img width="286" height="174" alt="OCP" src="https://github.com/user-attachments/assets/86b62fe9-b1e8-469f-aab2-e2c44ff66722" />
 </p>
 
-The Fisher Information Matrix implementation into the cost function is described in the last two equations where F is computed at each step k, and where Φ is a function of the parameter θ.
+The Fisher Information Matrix (FIM) implementation into the cost function is described in the last two equations where F (FIM) is computed at each step k, and where Φ is a function of the parameter θ.
 
 ## Engineering Outputs
 
