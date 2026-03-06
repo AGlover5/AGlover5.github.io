@@ -5,9 +5,9 @@ title: Orbital Robotic Autonomy
 
 # Information-aware Excitation Trajectories for In-Orbit Mass Property Estimation
 
-## Read the Paper (course submission version)!
+## Read the Paper! (course submission version
 <div>
-  <a href="/assets/posters/water-channel-poster.pdf" target="_blank">
+  <a href="/assets/posters/ASTE_599_Final_Project-3.pdf" target="_blank">
     <img
       src="/assets/images/Paper-thumb.png?v=2"
       alt="Water channel poster preview"
