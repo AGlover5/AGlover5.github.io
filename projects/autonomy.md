@@ -154,7 +154,7 @@ An exponential decay term was applied at each step k to heuristically decrease t
 <img width="257" height="55" alt="decay" src="https://github.com/user-attachments/assets/bad74129-efb4-490c-a4cb-f33cb69cbbdd" />
 </p>
 
-The Fisher Information for the mass property estimates was treated as a scalar (trace of the FIM) to single out this new approach from the earlier comparison of weighting the priority of each parameter differently. Thus the cost term changed to the following: 
+The Fisher Information for the mass property estimates was treated as a scalar (trace of the FIM) to single out this new approach from the earlier comparison of weighing each parameter individually. Thus the cost term was changed to the following: 
 
 <p align="center">
 <img width="378" height="80" alt="screenshot 2026-03-05 at 8 06 34 PM" src="https://github.com/user-attachments/assets/524df193-e283-4a27-afb1-f1974d499dc0" />
@@ -189,13 +189,13 @@ The six state vectors showed the following response to the applicaton of γ = 0.
 </div>
 
 ***Key Insights***
-The γ = 0.2 case shows greater excitation since a higher relative priority on exploratory attitudes is applied for longer. Conversely, the γ = 0.9 case predictably shows a much more state convergence oriented trajectory. Since this demonstrates that the priority on the state convergence and information exploration can be traded by the amount the weight on the FIM weight decays, it is worth evaluating the mass convergence performance in both cases to get insight on the optimal decay rate. 
+The γ = 0.2 case shows greater excitation since a higher relative priority on exploratory attitudes is applied for longer. Conversely, the γ = 0.9 case predictably shows a much more state convergence oriented trajectory. Since this demonstrates that the priority on the state convergence and information exploration can be traded by the amount the FIM weight decays, it is worth evaluating the mass convergence performance in both cases to get insight on the optimal decay rate. 
 
 <br>
 
 ---
 
-### Mass Convergenc
+### Mass Convergence
 
 <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
 
