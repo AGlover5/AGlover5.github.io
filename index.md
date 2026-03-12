@@ -53,7 +53,7 @@ My portfolio work spans autonomous systems for spacecraft and robotics under unc
 
 ## Resume
 
-➡️ [View resume](resume.html)
+➡️ [View resume](/assets/Andy Glover Resume.pdf)
 
 ---
 
