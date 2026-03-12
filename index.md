@@ -53,6 +53,6 @@ My portfolio work spans autonomous systems for spacecraft and robotics under unc
 
 ## Contact/Resume
 
-[📄 Resume](/assets/Andy) • [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+[📄 Resume](/assets/resume.pdf) • [GitHub]([https://github.com/](https://github.com/AGlover5)) • [LinkedIn](www.linkedin.com/in/andrew-glover-130269204)
 
 
